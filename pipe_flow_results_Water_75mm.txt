@@ -1,0 +1,10 @@
+=== Pipe Flow Calculator Results ===
+Fluid              : Water
+Pipe Diameter      : 75.0 mm
+Pipe Length        : 250.0 m
+Velocity           : 2.5 m/s
+Flow Rate (Q)      : 0.011045 m³/s  (11.0447 L/s)
+Reynolds Number    : 187500
+Flow Regime        : Turbulent
+Friction Factor    : 0.01519
+Head Loss          : 16.1249 m
